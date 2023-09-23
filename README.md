@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm a student at Hanoi University of Science and Technology. I love programming, and want to make new things everyday.<br/>
 🌱 I’m currently learning Dart, Ruby and Python.<br/>
 🔭 I’m currently working on an Android Project.<br/><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeedUnderEarth)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeedUnderEarth)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeedUnderEarth)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeedUnderEarth)](https://github.com/anuraghazra/github-readme-stats)<br/>
