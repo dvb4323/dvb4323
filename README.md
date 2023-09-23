@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a student at Hanoi University of Science and Technology. I love programming, and want to make new things everyday.
+🌱 I’m currently learning Dart, Ruby and Python.
+🔭 I’m currently working on an Android Project.
