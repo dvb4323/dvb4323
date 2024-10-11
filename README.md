@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a student at Hanoi University of Science and Technology. I love programming, and want to make new things everyday.<br/>
-🌱 I’m currently learning Dart, Ruby and Python.<br/>
-🔭 I’m currently working on an Android Project.<br/><br/>
+🌱 I’m currently learning Java, Ruby and Python.<br/>
+🔭 My dream is to become a fullstack developer.<br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvb4323)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvb4323&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
