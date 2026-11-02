@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student at Hanoi University of Science and Technology. I love programming, and want to make new things everyday.<br/>
-🌱 I’m currently learning Java, Ruby and Python.<br/>
+I'm a fullstack Web Developer who graduated from Hanoi University of Science and Technology. I love programming, and want to make new things everyday.<br/>
+🌱 I’m currently learning about AI, and how to integrate AI Tools to improve the proficiency of my work.<br/>
 🔭 My dream is to become a fullstack developer.<br/><br/>
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dvb4323)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dvb4323&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
